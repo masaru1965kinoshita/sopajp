@@ -1,0 +1,400 @@
+#container {
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#header {
+	width: 960px;
+	background-color: #FFFFFF;
+	top: 0px;
+}
+#header p {
+	background-color: #FBA6B8;
+	width: 940px;
+	text-align: left;
+	font-size: 116%;
+	color: #FFFFFF;
+	padding-left: 20px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	margin-top: 5px;
+}
+#header #logo h1 a #RFK_logo_01 {
+	float: left;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+#header #contact_1 h2 a {
+	clear: right;
+	float: right;
+	width: 190px;
+	height: 40px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-position: 0% top;
+	text-decoration: none;
+	background-image: url(../images/contact_s.jpg);
+	text-indent: -9999px;
+}
+#header #contact_1 h2 a:hover  {
+	clear: right;
+	float: right;
+	width: 190px;
+	height: 40px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-position: 0% bottom;
+	text-decoration: none;
+	background-image: url(../images/contact_s.jpg);
+	text-indent: -9999px;
+}
+#header #nav_A {
+	margin-left: 300px;
+	margin-right: 0px;
+}
+#header #nav_A ul {
+	height: 58px;
+	width: 605px;
+	float: left;
+	margin-left: px;
+	padding-bottom: 20px;
+}
+#header #nav_A ul li {
+	width: 190px;
+	height: 58px;
+	float: left;
+	margin-left: 11px;
+}
+#header #nav_A ul li a {
+	width: 190px;
+	height: 58px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#navA_01 {
+	text-indent: -9999px;
+	background-image: url(../images/navA_00001.jpg);
+}
+#navA_01 a:hover {
+	text-indent: -9999px;
+	background-position: 0% bottom;
+	background-image: url(../images/navA_00001.jpg);
+}
+#navA_02 {
+	text-indent: -9999px;
+	background-image: url(../images/navA_00002.jpg);
+}
+#navA_02 a:hover {
+	text-indent: -9999px;
+	background-position: 0% bottom;
+	background-image: url(../images/navA_00002.jpg);
+}
+#navA_03 {
+	text-indent: -9999px;
+	background-image: url(../images/navA_00003.jpg);
+}
+#navA_03 a:hover {
+	text-indent: -9999px;
+	background-position: 0% bottom;
+	background-image: url(../images/navA_00003.jpg);
+}
+#header #nav_B {
+	clear: both;
+	text-decoration: none;
+	padding-left: 0px;
+}
+#nav_B ul {
+	width: 960px;
+}
+#nav_B ul li {
+	float: left;
+	background-color: #7FC155;
+	margin-bottom: 20px;
+}
+#nav_B ul li a {
+	display: block;
+	text-align: center;
+	font-size: 138.5%;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-color: #7FC155;
+	padding-top: 15px;
+	padding-bottom: 13px;
+}
+#nav_B ul li a:hover  {
+	display: block;
+	text-align: center;
+	font-size: 138.5%;
+	color: #4F4B49;
+	text-decoration: none;
+	background-color: #D7E175;
+}
+#navB_01 {
+	width: 135px;
+	background-position: 0% top;
+	margin-right: 1px;
+}
+#navB_02 {
+	width: 172px;
+	text-indent: 0px;
+	margin-right: 1px;
+	background-position: 0% top;
+	margin-left: 1px;
+}
+#navB_03 {
+	width: 216px;
+	margin-right: 1px;
+	background-position: 0% top;
+	margin-left: 1px;
+}
+#navB_04 {
+	width: 110px;
+	margin-right: 1px;
+	background-position: 0% top;
+	margin-left: 1px;
+}
+#navB_05 {
+	width: 140px;
+	margin-right: 1px;
+	background-position: 0% top;
+	margin-left: 1px;
+}
+#navB_06 {
+	width: 176px;
+	background-position: 0% top;
+	margin-left: 1px;
+}
+#footer {
+	background-color: #FEFDF0;
+	width: 960px;
+	clear: both;
+	margin: 0 auto;
+	padding-bottom: 330px;
+	max-height: 350px;
+}
+#footer #message p {
+	background-color: #6AB046;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 124%;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	line-height: 1.5;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	width: 960px;
+	clear: both;
+}
+#footer #column1 {
+	border-right: 1px dotted #3E3A39;
+	width: 350px;
+	float: left;
+	padding-right: 10px;
+	clear: both;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	overflow-y: hidden;
+	overflow-x: hidden;
+	margin-top: 10px;
+	margin-left: 10px;
+	background-color: #FEFDF0;
+}
+#footer #column2 {
+	margin-top: 20px;
+	margin-left: 15px;
+	width: 570px;
+	float: left;
+	background-color: #FEFDF0;
+}
+#footer #column2 h2 {
+	font-size: 100%;
+	width: 550px;
+	margin-bottom: 15px;
+}
+#sitemap {
+	clear: both;
+	padding-top: 3px;
+}
+#copyright {
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 20px;
+}
+#footer_logo p #RFK_logo_02 {
+	margin-top: 0px;
+	margin-left: 10px;
+}
+#RFK_Secretariat   {
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 15px;
+	margin-bottom: 20px;
+}
+#RFK_Secretariat h2  {
+	font-size: 123.1%;
+	margin-bottom: 15px;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	line-height: 1.5;
+}
+#RFK_Secretariat p  {
+	font-size: 93%;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	line-height: 1.5;
+	text-align: left;
+}
+#adress {
+	color: #000000;
+	text-decoration: none;
+}
+#SNS p {
+	color: #FFFFFF;
+	text-align: center;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 93%;
+	border-radius: 20px;
+	background-color: #FBA6B8;
+	width: 335px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+#SNS .fb-like {
+	width: 160px;
+	height: 20px;
+	margin-left: 10px;
+	float: left;
+	margin-top: 10px;
+}
+#SNS .tweet {
+	margin-top: 10px;
+	height: auto;
+}
+#partner ul {
+	width: 550px;
+	height: auto;
+}
+#partner ul li {
+	width: 240px;
+	float: left;
+	padding-left: 10px;
+	height: auto;
+	padding-bottom: 20px;
+}
+#partner ul li a {
+	display: block;
+}
+#produce {
+	clear: both;
+	width: 550px;
+	padding-top: 20px;
+}
+#produce #sopa_logo {
+	padding-left: 10px;
+}
+#kankyosyo {
+	margin-top: 40px;
+}
+#sitemap ul  {
+	clear: none;
+	background-color: #FFFFFF;
+	width: 960px;
+	height: 15px;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#sitemap ul li {
+	float: left;
+	font-size: １０８
+%
+%;
+	text-decoration: none;
+	text-align: center;
+	font-size: 93%;
+	padding-right: 4px;
+	padding-left: 5.8px;
+}
+#f_01 a  {
+	color: #000000;
+	text-decoration: none;
+	padding-left: 0px;
+}
+#f_01 a:hover  {
+	color: #AAA5A3;
+}
+#f_02 a {
+	color: #000000;
+	text-decoration: none;
+}
+#f_02 a:hover  {
+	color: #AAA5A3;
+	text-decoration: none;
+}
+#f_03 a {
+	color: #000000;
+	text-decoration: none;
+}
+#f_03 a:hover  {
+	color: #AAA5A3;
+	text-decoration: none;
+}
+#f_04 a {
+	color: #000000;
+	text-decoration: none;
+}
+#f_04 a:hover  {
+	color: ポイント
+３情報セキュリティ対策万全！
+不要PCは何年前のものでも大丈夫！
+「株式会社パシフィックネット」（中古OA機器買取および販売）が
+不要ＰＣの回収・データ消去を万全のセキュリティ体制で行うので安心！
+リユースできないものは素材としてリサイクル。ポイント
+２プログラムの企画は柔軟に対応可能
+!
+例えば…
+●社内で活用！従業員の家族向けイベントとして開催できる！
+●御社CSRのこども向けプログラムとして活用できる！
+●つきあいのある学校や施設などへプログラムを贈ることができる！ポイント
+１予算も手間もかけずに、こども用プログラムの企画・実行をすることができる！v;
+	text-decoration: none;
+	color: #AAA5A3;
+}
+#f_05 a  {
+	text-decoration: none;
+	color: #000000;
+}
+#f_05 a:hover   {
+	text-decoration: none;
+	color: #AAA5A3;
+}
+#f_06 a {
+	color: #000000;
+	text-decoration: none;
+}
+#f_06 a:hover  {
+	color: #AAA5A3;
+	text-decoration: none;
+}
+#f_07 a {
+	text-decoration: none;
+	color: #000000;
+}
+#f_07 a:hover  {
+	text-decoration: none;
+	color: #AAA5A3;
+}
+#f_08 a {
+	color: #000000;
+	text-decoration: none;
+}
+#f_08 a:hover  {
+	color: #AAA5A3;
+	text-decoration: none;
+}
+#f_09 a {
+	color: #000000;
+	text-decoration: none;
+}
+#f_09 a:hover  {
+	color: #AAA5A3;
+	text-decoration: none;
+}

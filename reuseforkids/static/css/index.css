@@ -1,0 +1,154 @@
+#content {
+	width: 960px;
+}
+#top_image {
+	margin-top: 10px;
+}
+#top1 h3 {
+	text-align: center;
+	color: #6EB944;
+	font-size: 277.2%;
+	margin-bottom: 10px;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+#top1 {
+	padding-bottom: 30px;
+}
+#top1 p  {
+	text-align: center;
+	font-size: 131%;
+	line-height: 1.5;
+}
+#content #top2 ul {
+	width: 960px;
+	height: 280px;
+	margin-left: 0px;
+}
+#content #top2 ul li {
+	height: 280px;
+	float: left;
+	width: 350px;
+	margin-right: 20px;
+	border: 1px solid #000000;
+	margin-left: 80px;
+}
+#top2 ul li a {
+	width: 350px;
+	height: 280px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#by_pc {
+	background-image: url(../images/by_pc.jpg);
+	text-indent: -9999px;
+}
+#by_pc a:hover {
+	text-indent: -9999px;
+	background-position: 0% bottom;
+	background-image: url(../images/by_pc.jpg);
+}
+#by_book {
+	text-indent: -9999px;
+	background-image: url(../images/by_book.jpg);
+}
+#by_book a:hover {
+	text-indent: -9999px;
+	background-position: 0% bottom;
+	background-image: url(../images/by_book.jpg);
+}
+#top3 {
+	margin-top: 50px;
+	margin-left: 80px;
+	height: 280px;
+	margin-bottom: 30px;
+	padding-right: 0px;
+	margin-right: 0px;
+	width: 803px;
+	border: thin solid #000000;
+}
+#kyoiku_p {
+	width: 352px;
+	height: 230px;
+	float: left;
+	padding-right: 42px;
+}
+#kyoiku_p h2 a {
+	width: 394px;
+	height: 230px;
+	display: block;
+	background-image: url(../images/kyoiku_pro.jpg);
+	text-indent: -9999px;
+}
+#kyoiku_p h2 a:hover {
+	width: 394px;
+	height: 230px;
+	background-image: url(../images/kyoiku_pro.jpg);
+	text-indent: -9999px;
+	background-position: 0% bottom;
+	display: block;
+}
+#kyoiku_p_youtube {
+	padding-right: 0px;
+}
+#Kyoiku_tittle p a {
+	display: block;
+	width: 803px;
+	height: 50px;
+	text-indent: -9999px;
+	background-image: url(../images/index_kyouiku_t.jpg);
+}
+#top4 {
+	clear: both;
+	margin-bottom: 50px;
+}
+#top4 #nav_C ul {
+	height: 80px;
+	width: 960px;
+	margin-left: 79px;
+}
+#top4 #nav_C ul li {
+	width: 260px;
+	height: 80px;
+	float: left;
+	margin-right: 13.px;
+	margin-right: 14px;
+}
+#top4 #nav_C ul li a {
+	display: block;
+	height: 80px;
+	width: 260px;
+}
+#top5 {
+	clear: both;
+	height: 60px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+#navC_01 {
+	text-indent: -9999px;
+	background-image: url(../images/navA_00001b.jpg);
+}
+#navC_01 a:hover {
+	text-indent: -9999px;
+	background-position: 0% bottom;
+	background-image: url(../images/navA_00001b.jpg);
+}
+#navC_02   {
+	text-indent: -9999px;
+	background-image: url(../images/navA_00002b.jpg);
+}
+#navC_02 a:hover   {
+	text-indent: -9999px;
+	background-position: 0% bottom;
+	background-image: url(../images/navA_00002b.jpg);
+}
+#navC_03   {
+	text-indent: -9999px;
+	background-image: url(../images/navA_00003b.jpg);
+}
+#navC_03 a:hover   {
+	text-indent: -9999px;
+	background-position: 0% bottom;
+	background-image: url(../images/navA_00003b.jpg);
+}
